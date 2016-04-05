@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When photographing children, get down to their level.'
-datePublished: '2016-04-05T15:29:41.492Z'
-dateModified: '2016-04-05T15:29:32.402Z'
+datePublished: '2016-04-05T16:45:05.759Z'
+dateModified: '2016-04-05T16:45:05.471Z'
 title: Cassidy with Glasses
 author: []
-sourcePath: _posts/2016-04-05-cassidy-with-glasses.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+sourcePath: _posts/2016-04-05-cassidy-with-glasses.md
+published: true
 url: cassidy-with-glasses/index.html
 _type: Article
 
 ---
 # Cassidy with Glasses
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f7bbd1c-cb84-461e-accd-16320fe18298.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e51329a0-88c1-42b1-9fb1-e20a07e5e3c9.jpg)
 
 When photographing children, get down to their level.
