@@ -1,0 +1,28 @@
+name: Sassy Photo
+favicon: null
+layout_spectrum: 0.9547128980048001
+typography_spectrum: 0.7023521913215518
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5754985576495528
+  lightness: 0.19191992213018239
+  saturation: 0.29184764064848423
+  rhythmicContrast: 0.9207795290276408
+purpose: []
