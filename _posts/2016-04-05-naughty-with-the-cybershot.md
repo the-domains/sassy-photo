@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-05T16:43:04.974Z'
-dateModified: '2016-04-05T16:43:04.688Z'
+description: Equipment is important but not as important as light.
+datePublished: '2016-04-05T18:22:30.079Z'
+dateModified: '2016-04-05T17:10:28.592Z'
 title: Naughty with the Cybershot
 author: []
+sourcePath: _posts/2016-04-05-naughty-with-the-cybershot.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-naughty-with-the-cybershot.md
-published: true
 url: naughty-with-the-cybershot/index.html
 _type: Article
 
