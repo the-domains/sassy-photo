@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-05T17:07:41.788Z'
-dateModified: '2016-04-05T17:03:26.906Z'
+description: "Don't be a slave to symmetry."
+datePublished: '2016-04-05T18:22:02.322Z'
+dateModified: '2016-04-05T17:09:30.265Z'
 title: Boys on the Beach
 author: []
+sourcePath: _posts/2016-04-05-boys-on-the-beach.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-boys-on-the-beach.md
-published: true
 url: boys-on-the-beach/index.html
 _type: Article
 
