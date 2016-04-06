@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Don't be a slave to symmetry."
-datePublished: '2016-04-05T18:22:02.322Z'
-dateModified: '2016-04-05T17:09:30.265Z'
+datePublished: '2016-04-06T14:33:14.182Z'
+dateModified: '2016-04-06T14:32:49.949Z'
 title: Boys on the Beach
 author: []
 sourcePath: _posts/2016-04-05-boys-on-the-beach.md
