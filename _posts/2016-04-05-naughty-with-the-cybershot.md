@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Equipment is important but not as important as light.
-datePublished: '2016-04-06T14:34:11.166Z'
-dateModified: '2016-04-06T14:33:41.757Z'
+datePublished: '2016-04-06T14:34:43.983Z'
+dateModified: '2016-04-06T14:34:27.463Z'
 title: Naughty with the Cybershot
 author: []
 sourcePath: _posts/2016-04-05-naughty-with-the-cybershot.md
@@ -25,4 +25,4 @@ _type: Article
 # Naughty with the Cybershot
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08da08f5-29e9-4fea-8046-1bd3ea2f2684.jpg)
 
-Equipment is important but not as important as light.
+> Equipment is important but not as important as light.
